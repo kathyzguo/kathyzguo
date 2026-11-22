@@ -17,8 +17,6 @@ Here are some ideas to get you started:
 
 </div>
 
-<br/>
-
 <div align="left">
 
 🌸 I'm **Kathy Guo**, a sophomore studying **CS and ECE at Cornell**! I'm interested in **robotics**, **aerospace**, and **optimization patterns in AI/ML hardware**. 🚀 
@@ -26,7 +24,6 @@ I'm actually also the **Aeon of Elation**, otherwise known as **Aha** 🎭.
 ✨ *I ascended the imaginary tree and witnessed the birth of laughter!* ✨
 
 </div>
-<br/>
 
 ---
 
@@ -45,8 +42,6 @@ I'm actually also the **Aeon of Elation**, otherwise known as **Aha** 🎭.
 
 ### 💼 Please hire me, I'll make your workspace full of whimsy
 ## ༼ つ ◕_◕ ༽つ
-
-<br/>
 
 💫 *Thanks for stopping by, see you around :)* 💫
 
