@@ -35,8 +35,8 @@ I'm actually also the **Aeon of Elation**, otherwise known as **Aha** 🎭.
 - A CV/ML combined sensor with ESP32 to take data and process it, then output it
 ---
 
-### Outside of coding, I'm also working on
-- Hitting ascendant in Valorant 🎮
+### 🎮 Outside of coding, I'm also working on
+- Hitting ascendant in Valorant
 - Going to the gym more often
 - Just enjoying life more, hanging out with friends more often and relaxing!
 ---
